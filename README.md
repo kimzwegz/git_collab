@@ -3,3 +3,4 @@
 - 'git init': create a git repo locally
 - 'git branch <name>': creates <name> where head is
 - 'git switch <name>': switch to branch <name>
+- 'a new comment after merging'
